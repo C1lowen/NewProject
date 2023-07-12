@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+         sc = new Scanner(System.in);
         File file = new File("D:\\Kotlin_Project\\untitled\\src\\t.txt");
 
         System.out.println("Текстовый документ готов к использыванию: ");

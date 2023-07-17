@@ -1,4 +1,3 @@
-package FileTasks;
 
 import java.io.File;
 import java.io.FileWriter;
